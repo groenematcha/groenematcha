@@ -57,7 +57,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=groenematcha&&style=flat-square)  
   
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=groenematcha&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br/>  
 
 
