@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m an ICT-Software Engineering student from the Netherlands. Being a student,  I do a lot of self study in various fields, such as web development and OOP.  
+#### I’m an ICT-Software Engineering student from the Netherlands. Being a student,  I do a lot of self study in various fields, such as web development and OOP.  
   
 
 <br/>  
@@ -48,6 +48,14 @@ I’m an ICT-Software Engineering student from the Netherlands. Being a student,
 
 <br/>  
 
+<div align="left">
+            <a href="https://ko-fi.com/reone" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="left"
+                />
+            </a></div>  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=groenematcha&&style=flat-square)  
   
 
@@ -55,3 +63,6 @@ I’m an ICT-Software Engineering student from the Netherlands. Being a student,
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
